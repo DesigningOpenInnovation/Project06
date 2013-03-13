@@ -1,4 +1,4 @@
-BFF - Project06
+BFF Project
 =========
 
 Block-Food-Fest (BFF) is offering supermarkets the opportunity to save food which otherwise would be thrown away. 

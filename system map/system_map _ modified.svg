@@ -443,7 +443,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1176,7 +1176,7 @@
        transform="matrix(0.42568613,0.0831882,-0.10460313,0.53526947,289.96302,275.10248)" />
     <path
        sodipodi:type="star"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.66850376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#cae996;fill-opacity:1;stroke:#cae996;stroke-width:6.66850376000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path7349-3-1-6"
        sodipodi:sides="3"
        sodipodi:cx="1049.868"

@@ -431,9 +431,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
+<<<<<<< HEAD
      inkscape:zoom="1.8396708"
      inkscape:cx="730.78374"
      inkscape:cy="809.25519"
+=======
+     inkscape:zoom="0.91983542"
+     inkscape:cx="695.82301"
+     inkscape:cy="208.7531"
+>>>>>>> 750461f0aba387cc3fd4d9cb3b6b4cfcc364ac76
      inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"

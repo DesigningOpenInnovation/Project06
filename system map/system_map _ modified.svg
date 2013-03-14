@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="system_map _ modified.svg"
-   inkscape:export-filename="C:\Users\Victoria\Documents\GitHub\Project06\system map\system map final version 2.png"
+   inkscape:export-filename="C:\Users\Victoria\Documents\Aalto\Open innovation\system map final version 2.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -387,7 +387,7 @@
      inkscape:zoom="1.0547459"
      inkscape:cx="840.91703"
      inkscape:cy="519.80871"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="mm"
      inkscape:window-width="1366"
@@ -443,7 +443,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1081,10 +1081,7 @@
        style="fill:none;stroke:#000000;stroke-width:4.90748024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.90748024,4.90748024;stroke-dashoffset:0"
        d="m 647.48567,596.77067 c 0,4.88428 0,59.35119 0,59.35119 l 422.02993,0 0,-207.51988 -0.9245,0 0,0 0,0"
        id="path7685"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\Victoria\Documents\GitHub\Project06\business canvas\system map final version 2.png"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:type="star"
        style="fill:#2f5e70;fill-opacity:1;stroke:#2f5e70;stroke-width:6.66850376000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

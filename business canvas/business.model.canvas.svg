@@ -432,6 +432,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
 <<<<<<< HEAD
+<<<<<<< HEAD
      inkscape:zoom="1.8396708"
      inkscape:cx="730.78374"
      inkscape:cy="809.25519"
@@ -441,6 +442,12 @@
      inkscape:cy="208.7531"
 >>>>>>> 750461f0aba387cc3fd4d9cb3b6b4cfcc364ac76
      inkscape:current-layer="layer2"
+=======
+     inkscape:zoom="0.45991771"
+     inkscape:cx="388.16802"
+     inkscape:cy="591.14411"
+     inkscape:current-layer="layer4"
+>>>>>>> parent of 750461f... Updated version of business canvas
      showgrid="true"
      units="mm"
      inkscape:window-width="1366"
@@ -15743,7 +15750,7 @@
        id="text18408"
        y="775.98425"
        x="761.81104"
-       style="font-size:9.49110794px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#838383;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
+       style="font-size:9.49110793999999913px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#838383;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan18452"
@@ -15756,7 +15763,7 @@
          sodipodi:role="line"
          id="tspan18454"
          x="761.81104"
-         y="794.96649">How much does each Revenue Stream contribute to the overall revenues?</tspan></text>
+         y="794.96649">How much does each Revenue Stram contribute to the overall revenues?</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.70866143999999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect35255"
@@ -15963,12 +15970,7 @@
            height="118.6621"
            x="54.605568"
            y="806.63715" /></flowRegion><flowPara
-         id="flowPara36448">- <flowSpan
-   style="font-weight:600;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-   id="flowSpan6517">Value-driven business model</flowSpan>: less concerned with the cost  implications, and instead focus on value creation</flowPara><flowPara
-         id="flowPara6515">- <flowSpan
-   style="font-weight:600;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-   id="flowSpan6521">Variable costs</flowSpan>: vary proportionally with the volume of meals produced. </flowPara></flowRoot>    <flowRoot
+         id="flowPara36448">Add text here ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot36450"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"><flowRegion
@@ -15978,14 +15980,5 @@
            height="118.6621"
            x="764.47797"
            y="805.58704" /></flowRegion><flowPara
-         id="flowPara36456">- Transaction revenues resulting from <flowSpan
-   style="font-weight:600;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-   id="flowSpan6523">one-time customer payments</flowSpan> from Block People when buying specific food </flowPara><flowPara
-         id="flowPara6513">- Products and money received from <flowSpan
-   style="font-weight:600;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-   id="flowSpan6525">sponsors</flowSpan>, who will get in exchange advertisement</flowPara><flowPara
-         id="flowPara6529">- <flowSpan
-   style="font-weight:600;-inkscape-font-specification:TitilliumText25L Semi-Bold"
-   id="flowSpan6531">Crowdfunding system</flowSpan>: Brickstarter, a system that enables everyday people, to articulate and progress sustainable ideas about their communities</flowPara><flowPara
-         id="flowPara6527" /></flowRoot>  </g>
+         id="flowPara36456">Add text here ...</flowPara></flowRoot>  </g>
 </svg>

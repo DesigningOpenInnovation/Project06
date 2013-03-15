@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="business.model.canvas v1.svg"
-   inkscape:export-filename="C:\Users\Victoria\Documents\GitHub\Project06\business canvas\business model canvas v1.png"
+   inkscape:export-filename="C:\Users\Victoria\Documents\GitHub\Project06\business canvas\business model canvas v2.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -491,7 +491,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

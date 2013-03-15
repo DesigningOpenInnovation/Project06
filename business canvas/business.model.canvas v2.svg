@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="business.model.canvas v1.svg"
+   sodipodi:docname="business.model.canvas v2.svg"
    inkscape:export-filename="C:\Users\Victoria\Documents\GitHub\Project06\business canvas\business model canvas v2.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -444,7 +444,7 @@
      inkscape:zoom="0.9198354"
      inkscape:cx="778.15983"
      inkscape:cy="375.30986"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      inkscape:window-width="1366"
@@ -491,7 +491,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -15719,7 +15719,9 @@
            x="339.1846"
            y="506.30649" /></flowRegion><flowPara
          id="flowPara36408"
-         style="font-size:12px">- Volunteers to manage BFF</flowPara><flowPara
+         style="font-size:12px">- Volunteers to manage BFF </flowPara><flowPara
+         style="font-size:12px"
+         id="flowPara6534">- Developpers </flowPara><flowPara
          id="flowPara6586"
          style="font-size:12px">- Active community of foodies to cook and distribute the food</flowPara><flowPara
          id="flowPara6588"
